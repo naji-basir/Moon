@@ -1,3 +1,2 @@
- basir.dev
- naji.dev
+naji.dev
 basir.dev
